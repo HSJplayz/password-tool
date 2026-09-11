@@ -1,5 +1,10 @@
 # 🔑 Password Tool
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)]()
+[![CI](https://github.com/HSJplayz/password-tool/actions/workflows/ci.yml/badge.svg)](https://github.com/HSJplayz/password-tool/actions)
+[![Streak Day 3](https://img.shields.io/badge/Streak-Day%203-green.svg)](https://github.com/HSJplayz/streak)
+
 > Generate cryptographically strong passwords and check password strength — a transparent, no-dependency CLI built on Python's `secrets` module. Nothing is ever stored or sent anywhere.
 
 ## Table of Contents
